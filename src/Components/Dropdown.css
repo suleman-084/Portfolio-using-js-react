@@ -1,0 +1,32 @@
+.dropdown {
+  display: flex;
+}
+
+.dropdown-menu {
+  width: 10rem;
+  text-align: center;
+  color: black;
+  position: relative;
+  cursor: pointer;
+  padding: 2rem;
+}
+
+.dropdown-menu:hover {
+  color: #040303;
+}
+
+.dropdown-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  position: absolute;
+  top: 9.3rem;
+  left: 0;
+  width: 100%;
+  background: #7771e6;
+}
+
+.dropdown-list > li:hover {
+  border: 2px solid #151519;
+  color: #252533;
+}
