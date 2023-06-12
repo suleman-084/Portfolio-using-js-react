@@ -8,13 +8,13 @@ function Project({ isFromHome }) {
     {
       tag: "Shopify Clone",
       imageSrc1: "./images/shopify.png",
-      deployLink1: "https://name-conversion-program.netlify.app/",
+      deployLink1: "https://shopify-clone-02.netlify.app/",
       sourceCode1: "https://github.com/suleman-084/Shopify-Clone",
     },
     {
       tag: "Name Conversion",
       imageSrc1: "./images/conversion.png",
-      deployLink1: "https://street-style-landing-page01.netlify.app/",
+      deployLink1: "https://name-conversion-program.netlify.app/",
       sourceCode1:
         "https://github.com/suleman-084/javascript-assignments/tree/main/02nameconversion",
     },
